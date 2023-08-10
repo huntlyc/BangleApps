@@ -9,7 +9,7 @@
   "readme": "README.md",
   "type": "bootloader",
   "storage": [
-    {"name":"actiwar.js","url":"activity_warning.boot.js"},
+    {"name":"actiwar.boot.js","url":"app.js"},
     {"name":"actiwar.img","url":"app-icon.js","evaluate":true}
   ]
 }
